@@ -1,0 +1,3 @@
+AuthType shibboleth
+require shibboleth
+ShibRequestSetting shib-attr entitlement “elixir_test:ELIXIR AAI Training”

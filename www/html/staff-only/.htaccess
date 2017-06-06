@@ -1,0 +1,3 @@
+AuthType shibboleth
+ShibRequestSetting requireSession true
+Require shib-attr unscoped-affiliation staff

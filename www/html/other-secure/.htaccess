@@ -1,0 +1,2 @@
+AuthType shibboleth
+require shibboleth
